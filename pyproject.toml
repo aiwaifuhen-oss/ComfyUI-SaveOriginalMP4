@@ -1,0 +1,13 @@
+[project]
+name = "saveoriginalmp4"
+description = "Save VideoHelperSuite MP4 outputs with source filenames, optional intermediate cleanup, and automatically calculate RIFE interpolation FPS."
+version = "1.1.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/aiwaifuhen-oss/ComfyUI-SaveOriginalMP4"
+
+[tool.comfy]
+PublisherId = "aiwaifuhen-oss"
+DisplayName = "Save Original MP4 (VHS) + RIFE FPS Controller"
